@@ -1,1 +1,2 @@
-- Hello Mr. King! This is an assignment for Git/Github. 
+- Hello Mr. King! This is an assignment for Git/Github.
+- I am changing this now. 
